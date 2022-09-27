@@ -1,0 +1,185 @@
+nav{
+  margin: 100ppx;
+  margin-top: -5px;
+   margin-bottom: 80px;
+  padding:10ppx;
+  background-color: #FFF7FF;
+  font-family: sans-serif;
+
+  
+}
+ul.nav-bar {
+  /* Styling for the <ul class="nav-bar"> element */
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-style: solid;
+  border-color: #E8DEE8;
+}
+
+/* TODO (optional): Change the font size*/
+
+li.nav {
+  /* Styling for the <li class="nav"> element */
+  float: left;
+  font-size: 15px;
+}
+
+/* TODO (optional): Change the font color, decoration, and/or case */
+
+li.nav a {
+  /* Styling for the <a> elements in <li class="nav"> */
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* TODO (optional): Change the background color and/or font color when the mouse hovers over an item */
+
+li.nav a:hover {
+  /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
+  background-color: #FFFFFF;
+  color: #303030;
+}
+p{
+  border-style:;
+    
+}
+
+
+
+/*TODO: Add a background color or image to your website*/
+body {
+ background-image: linear-gradient(#ffffff,#FBA2FF); 
+  
+    
+}
+.img1 {
+   display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 800px; }
+ 
+ 
+
+.img3 {
+
+  margin-top: -20px;
+margin-bottom:70px;
+margin-right: 150px;
+  margin-left: auto;
+border-radius: 50px;
+Width:23%;
+float:right;}
+
+.img4, .img2 {
+margin-right:150px;
+margin-left:-100px;
+    border-radius: 50px;
+    width:90%;
+}
+
+
+h1
+{color: navy; 
+text-align: center;
+font-family: Arial;
+  font-size: 50px;
+margin: 100ppx;
+  padding:100ppx;
+  background-color: #ffffff;
+}
+
+h2 {text-align:center;
+margin: 100ppx;
+  padding:100ppx;
+  background-color: #ffffff;}
+
+.travel 
+{justify-content: center;
+  margin-top: 0px;
+margin-bottom:100px;
+  
+}
+
+.art{margin-top: 100px;
+  margin-bottom:20px;}
+
+.silly{
+  margin-top: 500px;
+}
+
+h3 {text-align:center;
+  color: crimson;
+font-size:50px;  
+}
+.homeintro {
+  text-align: center;
+  font-size: 25px;}
+ 
+}
+ 
+.arttext { 
+  font-size: 25px;
+  width:90%;
+}
+.sillytext, .traveltext {
+  Margin-top: 100px;
+  font-size: 25px;
+  width:30%
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+
+.proj1, .proj2 {   text-align: center;
+  font-size: 25px;
+  bottom-margin: 10px;
+  padding:30px;
+  background-color: #ffffff;
+width:50%;
+border-radius: 40px;}
+
+
+
+
+.moomin, .act
+{display:block;
+  margin-left: auto;
+  margin-right: auto;
+   margin-bottom: 10px;
+border-radius: 20px}
+
+
+
+/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
+
+
+
+
+
+/*TODO: Use the * selector to reset the margin and padding to 0px*/
+
+
+
+
+
+/*TODO: Add styling rules for the text and images on your website.*/
+
+
+
+
+/*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
+
+
+
+
+/*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;/ 
+    
